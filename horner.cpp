@@ -1,4 +1,5 @@
 // Horner's diagram - decimal to binary converter
+// author: https://github.com/NataliaKulisz
 
 #include <iostream>
 using namespace std;
