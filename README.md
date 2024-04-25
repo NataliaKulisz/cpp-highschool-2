@@ -15,3 +15,4 @@ PL: C++ skrypty i programy z 2 klasy liceum o profilu rozszerzonym z informatyki
 * `wheel-field-circumference.cpp` - The script returns wheel field, circumference and the value of PI
 * `anagram-film.cpp` - The script prints all anagrams of the word 'film'
 * `fibonacci-sequence.cpp` - The script prints the first 30 numbers from the Fibonacci sequence
+* `is-prime.cpp` - The script checks whether the number is prime
