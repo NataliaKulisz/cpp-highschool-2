@@ -9,6 +9,7 @@ PL: C++ skrypty i programy z 2 klasy liceum o profilu rozszerzonym z informatyki
 * `anagram-film.cpp` - The script prints all anagrams of the word 'film'
 * `array-average.cpp` - Script that prints the average of randomly generated numbers
 * `bubble-sort.cpp` - The script sorts randomly generated numbers using the bubble sort method
+* `close-average.cpp` - The script takes the average of the generated numbers, and then enters the number closest to that average
 * `fibonacci-sequence.cpp` - The script prints the first 30 numbers from the Fibonacci sequence
 * `getline.cpp` - Script that counts words
 * `guess-the-number.cpp` - Game - guess the number
