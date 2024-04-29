@@ -19,5 +19,6 @@ PL: C++ skrypty i programy z 2 klasy liceum o profilu rozszerzonym z informatyki
 * `is-anagram.cpp` - The script checks if a word is an anagram
 * `is-prime.cpp` - The script checks whether the number is prime
 * `narcissistic-number.cpp` - The script checks whether the given number is a narcissistic number
+* `random-array.cpp` - The script generates an array of random numbers
 * `sieve-of-eratosthenes.cpp` - Sieve of Eratosthenes. The script returns all prime numbers from range <2, 100>
 * `wheel-field-circumference.cpp` - The script returns wheel field, circumference and the value of PI
