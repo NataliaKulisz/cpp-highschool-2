@@ -12,6 +12,7 @@ PL: C++ skrypty i programy z 2 klasy liceum o profilu rozszerzonym z informatyki
 * `close-average.cpp` - The script takes the average of the generated numbers, and then enters the number closest to that average
 * `fibonacci-approximation.cpp` - The script prints approximations of 30 numbers from the Fibonacci sequence
 * `fibonacci-sequence.cpp` - The script prints the first 30 numbers from the Fibonacci sequence
+* `function-is-prime.cpp` - The script finds prime numbers in a given range
 * `getline.cpp` - Script that counts words
 * `guess-the-number.cpp` - Game - guess the number
 * `horner.cpp` - Horner's diagram - decimal to binary converter
